@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Weather-Forcasting/static/css/main.22c35b01.chunk.css",
+    "main.js": "/Weather-Forcasting/static/js/main.f9de5411.chunk.js",
+    "main.js.map": "/Weather-Forcasting/static/js/main.f9de5411.chunk.js.map",
+    "runtime-main.js": "/Weather-Forcasting/static/js/runtime-main.9e8b851e.js",
+    "runtime-main.js.map": "/Weather-Forcasting/static/js/runtime-main.9e8b851e.js.map",
+    "static/js/2.5b1d8d59.chunk.js": "/Weather-Forcasting/static/js/2.5b1d8d59.chunk.js",
+    "static/js/2.5b1d8d59.chunk.js.map": "/Weather-Forcasting/static/js/2.5b1d8d59.chunk.js.map",
+    "static/js/3.c9d21690.chunk.js": "/Weather-Forcasting/static/js/3.c9d21690.chunk.js",
+    "static/js/3.c9d21690.chunk.js.map": "/Weather-Forcasting/static/js/3.c9d21690.chunk.js.map",
+    "index.html": "/Weather-Forcasting/index.html",
+    "static/css/main.22c35b01.chunk.css.map": "/Weather-Forcasting/static/css/main.22c35b01.chunk.css.map",
+    "static/js/2.5b1d8d59.chunk.js.LICENSE.txt": "/Weather-Forcasting/static/js/2.5b1d8d59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e8b851e.js",
+    "static/js/2.5b1d8d59.chunk.js",
+    "static/css/main.22c35b01.chunk.css",
+    "static/js/main.f9de5411.chunk.js"
+  ]
+}
